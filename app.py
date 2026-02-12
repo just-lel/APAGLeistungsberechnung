@@ -286,7 +286,7 @@ def write_to_template_bytes(
 
             ws.cell(row=r, column=EXCEL_COL_A, value=row["Text_A"])
             ws.cell(row=r, column=EXCEL_COL_B, value=float(row["Anzahl"]))
-            ws.cell(row=r, column=EXCEL_COL_C, value=float(row["Leistung"]))
+            ws.cell(row=r, column=EXCEL_COL_C, value=float(row["Leistung"]) / 1000.0)
             ws.cell(row=r, column=EXCEL_COL_E, value=float(row["Gleichzeitigkeit"]))
             r += 1
 
