@@ -1,0 +1,8 @@
+﻿Anzahl;Typ;BSAG_Verwendung;Leistung;Gleichzeitigkeitsfaktor;Ebene;Verteilung
+;;;;;;
+1;Lichtleiste LED 120;;50;1;tin_Niveau_0 FB;HV
+1;Lichtleiste LED 120;;50;1;tin_Niveau_0 FB;HV
+1;Lichtleiste LED 120;;50;1;1.UG;1
+1;Lichtleiste LED 120;;50;1;1.OG;2
+1;Lichtleiste LED 120;;50;1;1.OG;HV
+1;Lichtleiste LED 120;Porsche Beleuchtung;50;1;1.OG;2
